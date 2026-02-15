@@ -1,2 +1,3 @@
 Second line
 Something which resolves the conflict :)
+My addition
