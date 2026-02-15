@@ -1,2 +1,2 @@
 Second line
-master work
+Something which resolves the conflict :)
